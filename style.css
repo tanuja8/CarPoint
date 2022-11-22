@@ -1,0 +1,37 @@
+.background_img{
+    background-image: url('https://di-uploads-pod2.dealerinspire.com/iclautos/uploads/2017/07/video-fallback-background.jpg');
+    background-size: cover;
+    height:600px;
+    border-radius: 0 ;
+    display: flex;
+    align-items: center;
+}
+.form_text{
+    justify-content: center;
+}
+.texth4{
+    font-size: 20px;
+    font-weight: 10px;
+    color: red;
+}
+.col-lg-3 img{
+    height: 200px;
+}
+
+
+.footer_row{
+    background-color: rgb(35, 35, 35);
+    padding: 10px;
+}
+.icon{
+    color:gold;
+}
+.footer_row ul {
+    list-style: none;
+}
+a{
+    color: gold;
+}
+.ftext{
+    color: rgb(24, 254, 8);
+}
